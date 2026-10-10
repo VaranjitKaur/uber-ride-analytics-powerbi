@@ -61,21 +61,6 @@ Includes interactive monthly and quarterly views to compare performance over tim
 - **DAX** — Measures and KPI calculations
 - **Data Modeling** — Organizing data for analysis
 
-## 📂 Project Structure
-
-```text
-uber-ride-analytics-powerbi/
-│
-├── README.md
-├── images/
-│   └── uber-dashboard.png
-├── data/
-│   └── sample_data.csv
-└── powerbi/
-    └── uber-ride-analytics.pbix
-```
-
-*Note: Add the folders and files that actually exist in your project. Do not upload sample or placeholder files unless you have them.*
 
 ## 🖼️ Dashboard Preview
 

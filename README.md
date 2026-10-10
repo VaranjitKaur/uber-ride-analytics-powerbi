@@ -64,7 +64,7 @@ Includes interactive monthly and quarterly views to compare performance over tim
 
 ## 🖼️ Dashboard Preview
 
-![Uber Ride Analytics Dashboard](images/uber-dashboard.png)
+![Uber Ride Analytics Dashboard]({59C9B800-872E-4990-8469-464B50EF7658}.png)
 
 ## 💡 Key Insights
 
